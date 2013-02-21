@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://ftp.sourcekade.ir/public_html/simplerenamer/|D:\Programming\workplace\_Projects\rename\pub\|D:\Programming\workplace\_Projects\rename\publi\</PublishUrlHistory>
+    <InstallUrlHistory>http://sourcekade.ir/simplerenamer/</InstallUrlHistory>
+    <SupportUrlHistory>http://sourcekade.ir/%25D8%25AA%25D9%2585%25D8%25A7%25D8%25B3-%25D8%25A8%25D8%25A7-%25D9%2585%25D8%25A7/</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
